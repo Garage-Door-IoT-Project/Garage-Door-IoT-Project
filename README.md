@@ -1,17 +1,22 @@
-### Automatic Garage Door 
 
+# AUTOMATIC GARAGE DOOR
 
-<!--
-**Garage-Door-IoT-Project/Garage-Door-IoT-Project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project was done by 
+1.ANIKET SHARMA 
+2.ROHIT SURYA 
+3.GAUTHAM 
+4.JAYANTH 
 
-Here are some ideas to get you started:
+As part of final project submission for externship 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# INTRO 
+
+The IoT Garage Door Project utilizes IoT technologies, including servo motors, PIR sensors, ultrasonic sensors, Node-RED, IBM and Firebase Cloud, and the MIT App Inventor app, to automate and enhance garage door functionality. It offers remote control, motion detection, distance sensing, and customization, providing convenience, security, and real-time monitoring for users
+
+# REPORT LINK 
+
+https://workdrive.zohopublic.in/writer/open/3qgm4bb5221fa256f46789b0175698280719f
+
+# SIMULATION LINK 
+
+https://wokwi.com/projects/368416265169034241
